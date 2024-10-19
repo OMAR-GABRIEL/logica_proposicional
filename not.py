@@ -8,3 +8,4 @@ def tabla_verdad_not():
 
 # Llamar a la función
 tabla_verdad_not()
+#omar gabriel 

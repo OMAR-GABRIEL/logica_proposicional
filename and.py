@@ -9,3 +9,4 @@ def tabla_verdad_and():
 
 # Llamar a la función
 tabla_verdad_and()
+# imagen de tabla de verdad omar gabriel 

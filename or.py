@@ -9,3 +9,4 @@ def tabla_verdad_or():
 
 # Llamar a la función
 tabla_verdad_or()
+#omar gabriel 

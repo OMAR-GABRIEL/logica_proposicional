@@ -9,7 +9,8 @@ def truth_table():
     for p in [True, False]:
         for q in [True, False]:
             result = double_implication(p, q)
-            print(f"{p}|\t{q}|\t{result}")
+            print(f"{int (p)}|\t{int (q)}|\t{int(result)}")
 
 # Call the function to display the truth table
 truth_table()
+#implicacion omar gabriel
